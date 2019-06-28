@@ -1,2 +1,2 @@
 # practise
-hello Syntax
+hello Syntax students
