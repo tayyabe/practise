@@ -1,2 +1,2 @@
 # practise
-hello world
+hello Syntax
